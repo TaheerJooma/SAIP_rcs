@@ -1,7 +1,7 @@
 # <ins> SAIP_rcs <ins>
 
 ## Setup:
-1. Create an environment based on Python 3.11 using the [Requirements.txt](Requirements.txt) Requirements.txt file.
+1. Create an environment based on Python 3.11 using the [Requirements.txt](Requirements.txt) file.
 
 ## Overview:
 * `rc.py` contains the reservoir computing model.
